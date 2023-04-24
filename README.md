@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @askysrsh
 - 👀 I’m interested in learning new stuffs
-- 🌱 I’m currently learning AI/ML
+- 🌱 Loves math
 - 📫 How to reach me akshaysrsh2002@gmail.com
 
 <!---
