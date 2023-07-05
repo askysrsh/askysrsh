@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @askysrsh
 - 👀 I’m interested in learning new stuffs
 - 🌱 Loves math
-- 📫 How to reach me akshaysrsh2002@gmail.com
+- 📫 reach me @ akshaysrsh2002@gmail.com
 
 <!---
 askysrsh/askysrsh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
