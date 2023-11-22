@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @askysrsh
-- 👀 I’m interested in learning new stuffs
+- Loves machine learning
 - 🌱 Loves math
 - 📫 reach me @ akshaysrsh2002@gmail.com
 
